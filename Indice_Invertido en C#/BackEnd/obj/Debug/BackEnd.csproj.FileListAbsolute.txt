@@ -1,0 +1,39 @@
+C:\Users\Robert_PC\Desktop\Buscador\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Robert_PC\Desktop\Buscador\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Robert_PC\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Robert_PC\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Robert_PC\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\bin\Debug\BackEnd.dll
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\bin\Debug\BackEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.dll
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.pdb
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\bin\Debug\BackEnd.dll
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\bin\Debug\BackEnd.pdb
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.dll
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Minas-lenovo03\Desktop\Buscador\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Minas-lenovo03\Desktop\Buscador\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Minas-lenovo03\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Minas-lenovo03\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Minas-lenovo03\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Minas-lenovo03\Desktop\Buscador\BackEnd\obj\Debug\BackEnd.pdb
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.dll
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.pdb
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\bin\Debug\BackEnd.dll
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\bin\Debug\BackEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\bin\Debug\BackEnd.dll
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\bin\Debug\BackEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.dll
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\BackEnd\obj\Debug\BackEnd.pdb

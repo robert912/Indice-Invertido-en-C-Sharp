@@ -1,0 +1,88 @@
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\bin\Debug\BackEnd.dll
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\bin\Debug\BackEnd.pdb
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Robert_PC\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\FrontEnd.exe.config
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\FrontEnd.exe
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\FrontEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\BackEnd.dll
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\BackEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.exe
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.pdb
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.exe
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\obj\Debug\FrontEnd.pdb
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\FrontEnd.exe.config
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\FrontEnd.exe
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\FrontEnd.pdb
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\BackEnd.dll
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\FrontEnd\bin\Debug\BackEnd.pdb
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\bin\Debug\BackEnd.dll
+C:\Users\Minas-lenovo03\Desktop\Buscador\FrontEnd\bin\Debug\BackEnd.pdb
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.exe.config
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.exe
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.pdb
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\BackEnd.dll
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\BackEnd.pdb
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.exe
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.pdb
+I:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.Buscador.resources
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.exe.config
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.exe
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\BackEnd.dll
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\BackEnd.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.Buscador.resources
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.exe
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\bin\Debug\FrontEnd.exe.config
+D:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.exe
+D:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador_2.0\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\bin\Debug\BackEnd.dll
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\bin\Debug\BackEnd.pdb
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.Buscador.resources
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.Menu.resources
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Roberto Orellana\Desktop\Indice Invertido\Indice_Invertido en C#\FrontEnd\obj\Debug\FrontEnd.pdb

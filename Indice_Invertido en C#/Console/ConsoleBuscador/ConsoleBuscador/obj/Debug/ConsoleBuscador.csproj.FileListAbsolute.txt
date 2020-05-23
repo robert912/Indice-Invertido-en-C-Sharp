@@ -1,0 +1,13 @@
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\bin\Debug\ConsoleBuscador.exe.config
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\bin\Debug\ConsoleBuscador.exe
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\bin\Debug\ConsoleBuscador.pdb
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.csprojResolveAssemblyReference.cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.csproj.CoreCompileInputs.cache
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.exe
+F:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\bin\Debug\ConsoleBuscador.exe.config
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\bin\Debug\ConsoleBuscador.exe
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\bin\Debug\ConsoleBuscador.pdb
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.csprojResolveAssemblyReference.cache
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.exe
+E:\Lenguajes y Metodos de Programacion\Laboratorio 2017.2\P.O.Objeto, Concurrencia, Evento - C#\Buscador\Console\ConsoleBuscador\ConsoleBuscador\obj\Debug\ConsoleBuscador.pdb
